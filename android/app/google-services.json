@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "222879093299",
+    "firebase_url": "https://restaurantapp-65d0e.firebaseio.com",
+    "project_id": "restaurantapp-65d0e",
+    "storage_bucket": "restaurantapp-65d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222879093299:android:22104e5fcf66b7ea538946",
+        "android_client_info": {
+          "package_name": "com.company.restaurantsideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222879093299-l3oimtr9lq2u4gq6o0v06pfpb1trjl5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.restaurantsideapp",
+            "certificate_hash": "cd774cb62aa073c1e80e6bb3746735277aa5285d"
+          }
+        },
+        {
+          "client_id": "222879093299-o73tqsjirdcfdmujk8isi03kj268f47p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4GoiemvNKJvp_yHHwLxLiydumKdpGj-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222879093299-o73tqsjirdcfdmujk8isi03kj268f47p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222879093299-i46p3giu4bev8kvbegpskq37vainr54b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jideguru.restaurant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222879093299:android:1ecad43c73dc72d7538946",
+        "android_client_info": {
+          "package_name": "com.younmin.buddyparaguay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222879093299-voe4ak2nrk5gssb2gchrbdsvpmbojdv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.younmin.buddyparaguay",
+            "certificate_hash": "3a3a0e14f47e86406e71eafd7e73671bd15a1405"
+          }
+        },
+        {
+          "client_id": "222879093299-3mav91bs0p2btcovq7sbrjsu1q404not.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.younmin.buddyparaguay",
+            "certificate_hash": "8041ea73945067ceb8237996318327d8c5b07c9a"
+          }
+        },
+        {
+          "client_id": "222879093299-o73tqsjirdcfdmujk8isi03kj268f47p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4GoiemvNKJvp_yHHwLxLiydumKdpGj-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222879093299-o73tqsjirdcfdmujk8isi03kj268f47p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222879093299-i46p3giu4bev8kvbegpskq37vainr54b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jideguru.restaurant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222879093299:android:73891e24ca3f5bec538946",
+        "android_client_info": {
+          "package_name": "com.younmin.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222879093299-o73tqsjirdcfdmujk8isi03kj268f47p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4GoiemvNKJvp_yHHwLxLiydumKdpGj-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222879093299-o73tqsjirdcfdmujk8isi03kj268f47p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222879093299-i46p3giu4bev8kvbegpskq37vainr54b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jideguru.restaurant"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222879093299:android:59dfbcba154ec74a538946",
+        "android_client_info": {
+          "package_name": "com.yunmin.buddyparaguay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222879093299-o73tqsjirdcfdmujk8isi03kj268f47p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4GoiemvNKJvp_yHHwLxLiydumKdpGj-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222879093299-o73tqsjirdcfdmujk8isi03kj268f47p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222879093299-i46p3giu4bev8kvbegpskq37vainr54b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jideguru.restaurant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
